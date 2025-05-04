@@ -1,6 +1,6 @@
 DEVIAZIONE MEDIA ASSOLUTA➗
 
-[scuola](https://dimages2.corriereobjects.it/files/main_image_mobile/uploads/2024/04/17/661fe1b8648b1.jpeg)
+![Scuola](https://dimages2.corriereobjects.it/files/main_image_mobile/uploads/2024/04/17/661fe1b8648b1.jpeg)
 
 # Per clonare  repository
 
