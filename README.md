@@ -11,7 +11,7 @@ git clone https://github.com/Mattia97-pappa/Deviazione-Media-Matematica.git
 cd Deviazione-Media-Matematica
 ```
 
-Utilizzo di Scanner per input utente
+Ho utilizzato Scanner per input utente
 e try-catch per gestire errori di input(InputMismatchException)
 
 
