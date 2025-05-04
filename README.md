@@ -12,7 +12,7 @@ cd Deviazione-Media-Matematica
 ```
 
 Ho utilizzato Scanner per input utente
-e try-catch per gestire errori di input(InputMismatchException)
+e try-catch per gestire errori di input(InputMismatchException).
 
 
 Questo programma  in Java simula un gestionale per l'inserimento dei voti in una scuola. Calcola la media e la deviazione media assoluta dei voti inseriti. La deviazione media assoluta misura quanto ogni voto si discosta in media dalla media dei voti.
