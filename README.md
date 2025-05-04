@@ -1,3 +1,7 @@
+DEVIAZIONE MEDIA ASSOLUTA➗
+
+
+
 # Per clonare  repository
 
 
@@ -6,3 +10,5 @@
 git clone https://github.com/Mattia97-pappa/Deviazione-Media-Matematica.git
 cd Deviazione-Media-Matematica
 ```
+
+
