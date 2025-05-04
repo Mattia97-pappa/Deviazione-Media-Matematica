@@ -24,4 +24,4 @@ Calcola la media dei voti.
 
 Calcola la deviazione media assoluta, ovvero la media delle differenze assolute tra ciascun voto e la media.
 
-
+[Guarda il video su Vimeo](https://vimeo.com/1081337299)
