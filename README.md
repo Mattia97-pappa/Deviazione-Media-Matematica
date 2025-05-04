@@ -1,6 +1,6 @@
 DEVIAZIONE MEDIA ASSOLUTA➗
 
-![Scuola](https://dimages2.corriereobjects.it/files/main_image_mobile/uploads/2024/04/17/661fe1b8648b1.jpeg)
+![Scuola](https://www.minimaetmoralia.it/wp/wp-content/uploads/2017/02/voti-richiesti-per-college-inglese-diploma-all-estero.jpg)
 
 # Per clonare  repository
 
